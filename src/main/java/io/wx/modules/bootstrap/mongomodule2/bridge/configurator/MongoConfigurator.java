@@ -5,7 +5,6 @@
  */
 package io.wx.modules.bootstrap.mongomodule2.bridge.configurator;
 
-import de.aptly.commons.configuration.schema.builder.NodeBuilder;
 import de.aptly.commons.configuration.schema.builder.ObjectNodeDefinition;
 import io.wx.bootstrap.configurator.Configurator;
 import java.util.Map;
